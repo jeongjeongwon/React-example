@@ -1,0 +1,31 @@
+body {
+  background-color: gray;
+}
+
+.main {
+  margin: 0 auto;
+  margin-top: 5rem;
+  border: 1px solid black;
+  width: 528px;
+  background-color: white;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.top  {
+  height: 5rem;
+  font-size: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: skyblue;
+  color: white;
+}
+
+.mid{
+  height: 2rem;
+  padding: 1rem;
+}
+
+.bottom{
+  min-height: 3.5rem;
+}
